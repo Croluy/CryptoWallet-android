@@ -1,14 +1,7 @@
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-<p align="center">
-  <a href="https://www.cosmostation.io" target="_blank" rel="noopener noreferrer"><img width="100" src="https://user-images.githubusercontent.com/20435620/55696624-d7df2e00-59f8-11e9-9126-edf9a40b11a8.png" alt="Cosmostation logo"></a>
-</p>
-<h1 align="center">Cosmostation Mobile Wallet</h1>
-<h3 align="center">Welcome to Cosmostation's Open Source Mobile Apps!</h3>
+<h1 align="center">Mobile Crypto Wallet</h1>
+<h3 align="center">Welcome to Croluy's Open Source Mobile App!</h3>
 
-[![MIT](https://img.shields.io/apm/l/vim-mode.svg)](https://github.com/cosmostation/cosmosjs/blob/master/LICENSE)
-[![Twitter Follow](https://img.shields.io/twitter/follow/CosmostationVD.svg?label=Follow&style=social)](https://twitter.com/CosmostationVD)
+[![MIT](https://img.shields.io/apm/l/vim-mode.svg)](https://github.com/Croluy/CryptoWallet-android/blob/master/LICENSE.md)
 
 *:rocket: Created by [Cosmostation](https://www.cosmostation.io/)*<br>
 *:rocket: Forked by [Croluy](https://www.github.com/croluy)*
