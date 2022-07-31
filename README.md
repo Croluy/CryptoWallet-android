@@ -8,7 +8,7 @@
 
 ## About
 
-This CryptoWallet is a fork of the Cosmostation non-custodial wallet for Android, which supports the [Cosmos Network](https://https://cosmos.network/).
+This CryptoWallet is a fork of the Cosmostation non-custodial wallet for Android (v1.6.0), which supports the [Cosmos Network](https://https://cosmos.network/).
 
 ## Downloads
 
