@@ -4,7 +4,7 @@
 [![MIT](https://img.shields.io/apm/l/vim-mode.svg)](https://github.com/Croluy/CryptoWallet-android/blob/master/LICENSE.md)
 
 *:rocket: Created by [Cosmostation](https://www.cosmostation.io/)*<br>
-*:code: Forked by [Croluy](https://www.github.com/croluy)*
+*:computer: Forked by [Croluy](https://www.github.com/croluy)*
 
 ## About
 
