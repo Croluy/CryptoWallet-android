@@ -1,10 +1,10 @@
 <h1 align="center">Mobile Crypto Wallet</h1>
-<h3 align="center">Welcome to Croluy's Open Source Mobile App!</h3>
+<h3 align="center">An Open Source Mobile App!</h3>
 
 [![MIT](https://img.shields.io/apm/l/vim-mode.svg)](https://github.com/Croluy/CryptoWallet-android/blob/master/LICENSE.md)
 
 *:rocket: Created by [Cosmostation](https://www.cosmostation.io/)*<br>
-*:rocket: Forked by [Croluy](https://www.github.com/croluy)*
+*:code: Forked by [Croluy](https://www.github.com/croluy)*
 
 ## About
 
