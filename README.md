@@ -10,7 +10,7 @@
 [![MIT](https://img.shields.io/apm/l/vim-mode.svg)](https://github.com/cosmostation/cosmosjs/blob/master/LICENSE)
 [![Twitter Follow](https://img.shields.io/twitter/follow/CosmostationVD.svg?label=Follow&style=social)](https://twitter.com/CosmostationVD)
 
-*:rocket: Created by [Cosmostation](https://www.cosmostation.io/)*
+*:rocket: Created by [Cosmostation](https://www.cosmostation.io/)*<br>
 *:rocket: Forked by [Croluy](https://www.github.com/croluy)*
 
 ## About
