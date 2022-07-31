@@ -10,16 +10,16 @@
 [![MIT](https://img.shields.io/apm/l/vim-mode.svg)](https://github.com/cosmostation/cosmosjs/blob/master/LICENSE)
 [![Twitter Follow](https://img.shields.io/twitter/follow/CosmostationVD.svg?label=Follow&style=social)](https://twitter.com/CosmostationVD)
 
-*:rocket: Developed / Developing by [Cosmostation](https://www.cosmostation.io/)*
+*:rocket: Created by [Cosmostation](https://www.cosmostation.io/)*
+*:rocket: Forked by [Croluy](https://www.github.com/croluy)*
 
 ## About
 
-Cosmostation wallet apps are non-custodial tendermint-based wallet that supports [Cosmos Network](https://https://cosmos.network/). 
-We will add more tendermint-based blockchain projects in the coming updates, such as [IRISnet](https://www.irisnet.org/), [Starname](https://www.starname.me/), [Kava](https://kava.io/), [Binance](https://www.binance.org/), [OKEx](https://www.okex.com/), [Band Protocol](https://bandprotocol.com/), [Persistence](https://persistence.one/), [Certik](https://www.certik.io/), [Akash](https://akash.network/), [Sentinel Protocol](https://sentinel.co/), [Fetch AI](https://fetch.ai/), [Cryto.org](https://crypto.org/), [Sif Chain](https://sifchain.finance/), [Ki Chain](https://foundation.ki/), [Osmosis](https://osmosis.zone/), [Secret](https://scrt.network/),       
-       
-
+This CryptoWallet is a fork of the Cosmostation non-custodial wallet for Android, which supports the [Cosmos Network](https://https://cosmos.network/).
 
 ## Downloads
+
+Unfortunatly I haven't yet distributed this version of the wallet, but you can still use the original Cosmostaion dowload links below:
 
 * [Android](https://play.google.com/store/apps/details?id=wannabit.io.cosmostaion)
 
@@ -37,11 +37,9 @@ We will add more tendermint-based blockchain projects in the coming updates, suc
 
 ## License
 
-Copyright © Cosmostation, Inc. All rights reserved.
-
 Licensed under the [MIT](LICENSE).
 
-## Contributors ✨
+## Contributors of the original Cosmostaion application ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
