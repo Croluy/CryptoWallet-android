@@ -3,30 +3,19 @@
 
 [![MIT](https://img.shields.io/apm/l/vim-mode.svg)](https://github.com/Croluy/CryptoWallet-android/blob/master/LICENSE.md)
 
-*:rocket: Created by [Cosmostation](https://www.cosmostation.io/)*<br>
-*:computer: Forked by [Croluy](https://www.github.com/croluy)*
+*:rocket: Created by [Croluy](https://www.github.com/croluy)*
 
 ## About
 
-This CryptoWallet is a fork of the Cosmostation non-custodial wallet for Android (v1.6.0), which supports the [Cosmos Network](https://https://cosmos.network/).
+This Crypto Wallet is a fork of the [Cosmostation](https://www.cosmostation.io/) non-custodial wallet for Android (v1.6.0), which supports the [Cosmos Network](https://https://cosmos.network/).
 
 ## Downloads
 
-Unfortunatly I haven't yet distributed this version of the wallet, but you can still use the original Cosmostaion dowload links below:
+I haven't yet distributed this version of the wallet, but you can still use the original Cosmostaion download links below:
 
 * [Android](https://play.google.com/store/apps/details?id=wannabit.io.cosmostaion)
 
 * [iOS](https://apps.apple.com/us/app/cosmostation/id1459830339)
-
-
-## Cosmostation's Services and Community
-
-- [Official Website](https://www.cosmostation.io)
-- [Mintscan Explorer](https://www.mintscan.io)
-- [Web Wallet](https://wallet.cosmostation.io)
-- [Telegram - International](https://t.me/cosmostation)
-- [Kakao - Korean](https://open.kakao.com/o/g6KKSe5)
-
 
 ## License
 
@@ -56,5 +45,3 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
